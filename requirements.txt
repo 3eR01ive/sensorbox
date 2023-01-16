@@ -1,0 +1,4 @@
+pyserial
+PyBluez
+Adafruit-Blinka
+Adafruit-ADS1x15

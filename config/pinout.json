@@ -1,0 +1,53 @@
+{
+    "devices":
+    [
+        {
+            "busnum": 1,
+            "address": "0x48",
+            "pins":
+            [
+                {
+                    "channel" : 1,
+                    "type": "RESISTOR"
+                },
+                {
+                    "channel" : 2,
+                    "type": "RESISTOR"
+                },
+                {
+                    "channel" : 3,
+                    "type": "RESISTOR"
+                },
+                {
+                    "channel" : 4,
+                    "type": "RESISTOR"
+                }
+            ]
+        },
+        {
+            "busnum": 1,
+            "address": "0x49",
+            "pins":
+            [
+                {
+                    "channel" : 5,
+                    "type": "VOLTAGE"
+                },
+                {
+                    "channel" : 6,
+                    "type": "VOLTAGE"
+                },
+                {
+                    "channel" : 7,
+                    "type": "VOLTAGE"
+                },
+                {
+                    "channel" : 8,
+                    "type": "VOLTAGE"
+                }
+            ]
+        }
+    ]
+}
+
+
